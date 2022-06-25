@@ -7,3 +7,12 @@ Whoever chooses to play first will be player X and the other will be player O.
 
 
 
+###
+Live link to the game 
+[Play the game here](http://kavithachunduri.github.io/TICTACTOE/)
+
+
+
+
+
+
