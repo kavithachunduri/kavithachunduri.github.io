@@ -20,5 +20,7 @@ Live link to the game
 
 
 
+![Tic-Tac_Toe](https://user-images.githubusercontent.com/105738289/175796985-a6c801d3-dd03-45a9-84f9-8d4189d2aea2.png)
 
 
+![Tic-Tac_Toe](https://user-images.githubusercontent.com/105738289/175796986-98d5d271-e4c9-4510-95ec-f80630a6ff4e.png)
