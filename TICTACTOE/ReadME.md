@@ -18,9 +18,9 @@ Live link to the game
 [Play the game here](http://kavithachunduri.github.io/kavithachunduri.github.io/TICTACTOE/)
 
 
+![Tic-Tac_Toe](https://user-images.githubusercontent.com/105738289/175797015-f2b2d9cd-18f5-4c97-a918-61f9f7d1bdb0.png)
+![Tic-Tac-Toe 2](https://user-images.githubusercontent.com/105738289/175797016-aa2efe11-8247-43e5-af30-c8da764ebbd1.png)
 
 
-![Tic-Tac_Toe](https://user-images.githubusercontent.com/105738289/175796985-a6c801d3-dd03-45a9-84f9-8d4189d2aea2.png)
 
 
-![Tic-Tac_Toe](https://user-images.githubusercontent.com/105738289/175796986-98d5d271-e4c9-4510-95ec-f80630a6ff4e.png)
