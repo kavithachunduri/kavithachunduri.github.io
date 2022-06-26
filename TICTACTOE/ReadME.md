@@ -15,7 +15,8 @@ If you press the reset button a new game will up be up.
 
 ##
 Live link to the game 
-[Play the game here]( https://kavithachunduri.github.io/)
+
+[Play the game here]( https://kavithachunduri.github.io/kavithachunduri.github.io-tictactoe)
 
 
 ![Tic-Tac_Toe](https://user-images.githubusercontent.com/105738289/175797015-f2b2d9cd-18f5-4c97-a918-61f9f7d1bdb0.png)
