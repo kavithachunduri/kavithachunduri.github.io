@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Tic-Tac-Toe</title>
+    <link rel = "icon" href ="images/logo1.png"   type = "image/x-icon">
+              
+</head>
+<body>
+    
+    <div class="container">
+      
+      <h1> TIC-TAC-TOE</h1>
+
+      <div id="tictactoe" >
+        
+        <div id="strike" class="strike"></div>
+
+        <div class="box border-right border-bottom" id="0"></div>
+        <div class="box border-right border-bottom" id="1"></div>
+        <div class="box border-bottom" id="2"></div>
+        <div class="box border-right border-bottom" id="3"></div>
+        <div class="box border-right border-bottom" id="4"></div>
+        <div class="box border-bottom" id="5"></div>
+        <div class="box border-right" id="6"></div>
+        <div class="box border-right" id="7"></div>
+        <div class="box" id="8"></div>
+      
+      </div>
+      
+     
+      <div id="restart">
+        <div id="winner-draw" > </div>
+     
+        <button onclick="reset()"  style="margin-left: 600px;">Restart</button>
+      </div>
+      
+      <embed src="audio/Spring-Flowers.mp3" loop="true" autostart="true" width="2" height="0">
+                                    
+      <script type="text/javascript" src="Tictactoe.js"></script>
+</body>
+</html>
