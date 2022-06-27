@@ -22,7 +22,7 @@ If you press the reset button a new game will up be up.
 ##
 Live link to the game 
 
-[Play the game here]( https://kavithachunduri.github.io-tictactoe)
+[Play the game here]( https://kavithachunduri.github.io/TICTACTOE)
 
 **Outlook of the game**
 
