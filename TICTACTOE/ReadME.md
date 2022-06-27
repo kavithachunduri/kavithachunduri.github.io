@@ -22,7 +22,8 @@ If you press the reset button a new game will up be up.
 ##
 Live link to the game 
 
-[Play the game here]( https://kavithachunduri.github.io/TICTACTOE)
+
+[Play the game here]( https://wondrous-travesseiro-75d252.netlify.app/tictactoe/)
 
 **Outlook of the game**
 
