@@ -1,13 +1,14 @@
-# Check Before Cook
 
-## CHECK BEFORE COOK
+# CHECK BEFORE COOK
+
+[check-before-cook app link here](https://kavithachunduri-check-before-cook.netlify.app/)
 
 ### Description
 
-<sup>This site allows you to choose the popular recipes displayed on the home page or user can go to the CheckCook page where they can type the recipe they want in the input box provided 
+<sub>This site allows you to choose the popular recipes displayed on the home page or user can go to the CheckCook page where they can type the recipe they want in the input box provided 
 and the number of recipes .
 
-when the recipes are displayed they can click on the image of the selected recipe it will open to a page where they can see the necessary ingredients and instructions to prepare the recipe.</sup>
+when the recipes are displayed they can click on the image of the selected recipe it will open to a page where they can see the necessary ingredients and instructions to prepare the recipe.</sub>
  
 ## Component Heiarchy
 
@@ -21,12 +22,18 @@ when the recipes are displayed they can click on the image of the selected recip
 
 ### Outlook 
 
-pic1
-pic2
-pic3
-pic4
+[check-before-cook](https://github.com/kavithachunduri/kavithachunduri.github.io/blob/main/check-before-u-cook/images/outlook3.png?raw=true)
+
+[check-before-cook](https://github.com/kavithachunduri/kavithachunduri.github.io/blob/main/check-before-u-cook/images/outlook4.png?raw=true)
+
+[check-before-cook](https://github.com/kavithachunduri/kavithachunduri.github.io/blob/main/check-before-u-cook/images/outlook1.png?raw=true)
+
+[check-before-cook](https://github.com/kavithachunduri/kavithachunduri.github.io/blob/main/check-before-u-cook/images/Screenshot%20(288).png?raw=true)
+
+
 
 ##### MVP
+
 The App should have the following pages:
     1.Home - Welcome message and a popular recipes
     2.About - Description of the App 
@@ -36,8 +43,9 @@ The App should have the following pages:
 
 
  ###### Post-MVP
-	Post MVP, additional widgets which give nutritional information on the food and 
-Recipe by calories 
+ 
+ Additional widgets which give nutritional information on the food and Recipe by calories 
+
 
 
 
