@@ -1,70 +1,44 @@
-# Getting Started with Create React App
+# Check Before Cook
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## CHECK BEFORE COOK
 
-## Available Scripts
+### Description
 
-In the project directory, you can run:
+<sup>This site allows you to choose the popular recipes displayed on the home page or user can go to the CheckCook page where they can type the recipe they want in the input box provided 
+and the number of recipes .
 
-### `npm start`
+when the recipes are displayed they can click on the image of the selected recipe it will open to a page where they can see the necessary ingredients and instructions to prepare the recipe.</sup>
+ 
+## Component Heiarchy
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+![component Heirachy](check-before-u-cook\images\component hierachy.png)
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### Api Used 
+[https://spoonacular.com/food-api]
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### Outlook 
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+pic1
+pic2
+pic3
+pic4
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+##### MVP
+The App should have the following pages:
+    1.Home - Welcome message and a popular recipes
+    2.About - Description of the App 
+    3.Recipes - Search for Recipes using the input box
+    4.Recipe - Will showcase the recipe the user clicked the button 
+    5.Error(Incase of page not found and there is a type error )
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+ ###### Post-MVP
+	Post MVP, additional widgets which give nutritional information on the food and 
+Recipe by calories 
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
