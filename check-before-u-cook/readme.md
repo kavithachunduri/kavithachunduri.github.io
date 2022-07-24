@@ -22,13 +22,13 @@ when the recipes are displayed they can click on the image of the selected recip
 
 ### Outlook 
 
-[check-before-cook](https://github.com/kavithachunduri/kavithachunduri.github.io/blob/main/check-before-u-cook/images/outlook3.png?raw=true)
+![check-before-cook](https://github.com/kavithachunduri/kavithachunduri.github.io/blob/main/check-before-u-cook/images/outlook3.png?raw=true)
 
-[check-before-cook](https://github.com/kavithachunduri/kavithachunduri.github.io/blob/main/check-before-u-cook/images/outlook4.png?raw=true)
+![check-before-cook](https://github.com/kavithachunduri/kavithachunduri.github.io/blob/main/check-before-u-cook/images/outlook4.png?raw=true)
 
-[check-before-cook](https://github.com/kavithachunduri/kavithachunduri.github.io/blob/main/check-before-u-cook/images/outlook1.png?raw=true)
+![check-before-cook](https://github.com/kavithachunduri/kavithachunduri.github.io/blob/main/check-before-u-cook/images/outlook1.png?raw=true)
 
-[check-before-cook](https://github.com/kavithachunduri/kavithachunduri.github.io/blob/main/check-before-u-cook/images/Screenshot%20(288).png?raw=true)
+![check-before-cook](https://github.com/kavithachunduri/kavithachunduri.github.io/blob/main/check-before-u-cook/images/Screenshot%20(288).png?raw=true)
 
 
 
