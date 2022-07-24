@@ -5,10 +5,10 @@
 
 ### Description
 
-<sub>This site allows you to choose the popular recipes displayed on the home page or user can go to the CheckCook page where they can type the recipe they want in the input box provided 
+This site allows you to choose the popular recipes displayed on the home page or user can go to the CheckCook page where they can type the recipe they want in the input box provided 
 and the number of recipes .
 
-when the recipes are displayed they can click on the image of the selected recipe it will open to a page where they can see the necessary ingredients and instructions to prepare the recipe.</sub>
+when the recipes are displayed they can click on the image of the selected recipe it will open to a page where they can see the necessary ingredients and instructions to prepare the recipe.
  
 ## Component Heiarchy
 
