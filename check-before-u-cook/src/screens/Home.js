@@ -21,7 +21,7 @@ function Home() {
 
 
     try{
-    const response = await  axios.get(`${BASE_URL}/recipes/random?apiKey=${API_KEY}&number=2`);
+    const response = await  axios.get(`${BASE_URL}/recipes/random?apiKey=${API_KEY}&number=6`);
         console.log("random", response.data.recipes)
     const  data= response.data.recipes ;
     setRecipes(data);
