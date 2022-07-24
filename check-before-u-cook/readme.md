@@ -12,7 +12,7 @@ when the recipes are displayed they can click on the image of the selected recip
  
 ## Component Heiarchy
 
-![component Heirachy]([check-before-u-cook\images\component hierachy.png](https://github.com/kavithachunduri/kavithachunduri.github.io/blob/main/check-before-u-cook/images/component%20hierachy.png?raw=true))
+![component Heirachy](https://github.com/kavithachunduri/kavithachunduri.github.io/blob/main/check-before-u-cook/images/component%20hierachy.png?raw=true)
 
 
 
