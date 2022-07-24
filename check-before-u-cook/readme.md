@@ -20,7 +20,7 @@ when the recipes are displayed they can click on the image of the selected recip
 [https://spoonacular.com/food-api]
 
 
-### Outlook 
+### App Outlook 
 
 ![check-before-cook](https://github.com/kavithachunduri/kavithachunduri.github.io/blob/main/check-before-u-cook/images/outlook3.png?raw=true)
 
