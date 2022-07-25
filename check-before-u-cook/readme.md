@@ -50,10 +50,10 @@ The App should have the following pages:
 
 ## Built with 
 
-   *. ReactJs
-   *. JavaScript
-   *. CSS
-   *. Spoonacular Api
+   * ReactJs
+   * JavaScript
+   * CSS
+   * Spoonacular Api
    
 
 
