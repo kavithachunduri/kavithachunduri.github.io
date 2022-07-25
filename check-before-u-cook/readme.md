@@ -32,7 +32,7 @@ when the recipes are displayed they can click on the image of the selected recip
 
 
 
-##### MVP
+#### MVP
 
 The App should have the following pages:
     1.Home - Welcome message and a popular recipes
@@ -42,9 +42,14 @@ The App should have the following pages:
     5.Error(Incase of page not found and there is a type error )
 
 
- ###### Post-MVP
- 
- Additional widgets which give nutritional information on the food and Recipe by calories 
+
+## Built with 
+
+   1. ReactJs
+   2.JavaScript
+   3.CSS
+   4.Spoonacular Api
+   
 
 
 
