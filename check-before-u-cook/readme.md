@@ -20,6 +20,9 @@ when the recipes are displayed they can click on the image of the selected recip
 [https://spoonacular.com/food-api]
 
 
+
+
+
 ### App Outlook 
 
 ![check-before-cook](https://github.com/kavithachunduri/kavithachunduri.github.io/blob/main/check-before-u-cook/images/outlook3.png?raw=true)
@@ -29,6 +32,8 @@ when the recipes are displayed they can click on the image of the selected recip
 ![check-before-cook](https://github.com/kavithachunduri/kavithachunduri.github.io/blob/main/check-before-u-cook/images/outlook1.png?raw=true)
 
 ![check-before-cook](https://github.com/kavithachunduri/kavithachunduri.github.io/blob/main/check-before-u-cook/images/Screenshot%20(288).png?raw=true)
+
+
 
 
 
@@ -45,10 +50,10 @@ The App should have the following pages:
 
 ## Built with 
 
-   1. ReactJs
-   2.JavaScript
-   3.CSS
-   4.Spoonacular Api
+   *. ReactJs
+   *. JavaScript
+   *. CSS
+   *. Spoonacular Api
    
 
 
