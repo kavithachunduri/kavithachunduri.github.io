@@ -2,7 +2,7 @@
 # CHECK BEFORE COOK
 
 * [check-before-cook deploy link by Netlify](https://kavithachunduri-check-before-cook.netlify.app/)
-* [check-before-cook deploy link by Surge](kavitha-check-before-cook.surge.sh)
+* [check-before-cook deploy link by Surge](https://historical-vase.surge.sh/)
 
 ### Description
 
